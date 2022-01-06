@@ -1,4 +1,4 @@
-# DynamicDPI: using Deep Probabilistic Imaging (DPI) for Dynamic Sources 
+# DynamicDPI: Imaging Dynamic Sources, with Uncertainty Quantification
 Reconstructing video of quickly evolving sources, using Deep Probabilistic Imaging (DPI) in message passing
 
 ## Run Examples
