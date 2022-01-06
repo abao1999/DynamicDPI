@@ -1,0 +1,1 @@
+python DPI_MRI.py --lr 1e-5 --clip 1e-3 --n_epoch 100000 --npix 64 --n_flow 16 --ratio 4 --logdet 1.0 --tv 1e3 --save_path ./checkpoint/mri --impath ../dataset/fastmri_sample/mri/knee/scan_0.pkl --maskpath ../dataset/fastmri_sample/mask/mask4.npy --sigma 5e-7
