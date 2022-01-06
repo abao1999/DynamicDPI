@@ -1,5 +1,5 @@
 # DynamicDPI
-Dynamic Imaging with Uncertainty Quantification. Reconstructing video of quickly evolving sources, using Deep Probabilistic Imaging (DPI) in message passing on a probabilstic graphical model of the hidden images.
+Reconstructing video of quickly evolving sources, with uncertainty quantification, using Deep Probabilistic Imaging (DPI) in a message passing protocol on a probabilstic graphical model of the hidden images. Case studies include VLBI and Dynamic MRI.
 
 ## Run Examples
 TODO
