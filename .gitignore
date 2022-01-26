@@ -1,7 +1,11 @@
 __pycache__
 .ipynb_checkpoints
 results_run1/
+results/
 *.mp4
 *.pdf
 *.hdf5
 *.mat
+*.fits
+*.uvfits
+
